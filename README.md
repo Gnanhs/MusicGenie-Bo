@@ -1,1 +1,1 @@
-# MusicGenie-Bo
+# MusicGenie-Bot
